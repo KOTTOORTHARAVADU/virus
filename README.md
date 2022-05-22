@@ -13,7 +13,7 @@
 <h2>FOLLOW THE COMMANTS FOR TERMUX USERS</h2>
 <p>$ apt update && upgrade -y</p>
 <p>$ pkg install git -y</p>
-<p>$ git clone https://github.com/KOTTOORTHARAVADU/virus </p>
+<p>$ git clone https://github.com/KOTTOORTHARAVADU/virus](https://github.com/KOTTOORTHARAVADU/virus.git </p>
 <p>$ cd virus</p>
 <p>$ chmod +x *</p>
 <p>$ bash kottoor.sh</p>
